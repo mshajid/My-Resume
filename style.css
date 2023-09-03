@@ -11,8 +11,7 @@ body {
 .main {
     max-width: 1000px;
     margin: 0 auto;
-    border: 1px solid black;
-    box-shadow: 5px 10px;
+    /* border: 2px solid black; */
     scroll-behavior: smooth;
 }
 
@@ -23,21 +22,23 @@ body {
 
 .left {
     width: 30%;
-    border-right: 2px solid black;
-    height: 100%;
-    background-color: rgb(7, 25, 82);
+    /* border-right: 2px solid black; */
+    height: auto;
+    background-color: rgb(54, 48, 98);
     color: white;
     display: flex;
     justify-content: center;
     padding-top: 20px;
-    box-shadow: 5px 0px 0px 0px #aaaaaa;
 }
 
 .right {
     width: 70%;
     height: 100%;
     padding: 20px 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
+    background-color: #E9D5DA;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(130, 115, 151);
 
 }
 
@@ -55,15 +56,17 @@ h1 {
     border: transparent;
     border-radius: 30%;
     cursor: pointer;
+    margin-top: 30px;
 }
 
 .avatar:hover {
-    box-shadow: 5px 7px #0B666A;
+    box-shadow: 5px 7px rgb(130, 115, 151);
     transition: all 0.5s ease-in;
 }
 
 .text {
     font-size: .9rem;
+    text-align: center;
 }
 
 .img {
@@ -76,25 +79,37 @@ h1 {
 }
 .section {
     margin: 5px 10px;
-    background-color: #0B666A;
+    background-color: rgb(130, 115, 151);
     padding: 10px;
-    border: 1px;
     border-radius: 10px;
 }
 
 .intro {
     border: transparent;
     border-radius: 10px;
-    height: 20px;
+    /* height: 20px; */
     padding: 10px;
-    margin: 15px 10px;
+    width: fit-content;
+    margin: 15px auto;
     text-align: center;
-    background-color: #35A29F
+    background-color: rgb(130, 115, 151);
+}
+
+.educational-intro {
+    border-radius: 10px;
+    /* height: 20px; */
+    padding: 10px;
+    width: 50%;
+    margin: -20px 0 30px 0;
+    text-align: center;
+    background-color: rgb(130, 115, 151);
+    color: white;
+
 }
 
 .personal {
     margin: 5px 10px;
-    background-color: #0B666A;
+    background-color: rgb(130, 115, 151);
     border: 1px;
     border-radius: 10px;
     padding: 10px;
@@ -115,7 +130,7 @@ h1 {
 }
 
 .badge {
-    background-color: rgb(53, 162, 159);
+    background-color: rgb(130, 115, 151);
     border-radius: 10px;
     padding: 0px 5px;
     
@@ -126,6 +141,43 @@ ul {
 }
 
 .underline {
-    border-bottom: 3px solid whitesmoke;
+    border-bottom: 1px solid #363062;
+    width: 100%;
     margin-top: 10px;
+    margin-bottom: 50px;
+    opacity: 0.2;
+}
+
+.desc-container {
+    margin-bottom: 20px;
+}
+
+.year-container {
+    margin-bottom: 10px;
+}
+
+.year {
+    background-color: rgb(7, 25, 82);
+    padding: 5px 10px;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+.section-line {
+    border-bottom: 2px solid rgb(130, 115, 151);
+    width: 50%;
+    margin: 20px auto;
+    opacity: 0.2;
+}
+
+.text-container {
+    color: grey;
+    /* color: #E9D5DA; */
+    font-size: .92rem;
+    /* font-weight: lighter; */
+}
+
+.main-desc {
+    max-width: 600px;
+    margin: 20px 30px;
 }
