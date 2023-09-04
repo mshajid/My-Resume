@@ -97,7 +97,7 @@ h1 {
     /* height: 20px; */
     padding: 10px;
     width: fit-content;
-    margin: 15px auto;
+    margin: 20px auto;
     text-align: center;
     background-color: rgb(130, 115, 151);
 }
@@ -170,18 +170,6 @@ h1 {
     gap: 5px;
     max-width: 200px;
     flex-direction: column;
-}
-
-.main-int {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: start;
-    gap: 10px;
-    text-align: center;
-    /* text-align: start; */
-    font-size: .9rem;
-    max-width: 450px;
-    margin: 0 auto;
 }
 
 .left-line {
@@ -335,4 +323,28 @@ ul {
 .sign-text {
     align-self: flex-end;
     margin-top: -25px;
+}
+
+.skill-badges {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main-int {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    gap: 10px;
+    text-align: center;
+    /* text-align: start; */
+    font-size: .9rem;
+    max-width: 300px;
+    margin: 0 auto;
 }
