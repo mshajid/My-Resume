@@ -49,6 +49,12 @@ body {
 
 h1 {
     font-weight: 800;
+    font-size: 4rem;
+}
+
+.shafee {
+    font-weight: 100;
+    margin-left: -20px
 }
 
 .avatar {
