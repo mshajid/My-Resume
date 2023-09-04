@@ -118,7 +118,10 @@ h1 {
 
 .logo {
     width: 16px;
-    margin: 0 8px;
+    margin: 02px 10px;
+    padding: 3px;
+    background-color: white;
+    border-radius: 50%;
 }
 
 .skill-section {
@@ -180,4 +183,11 @@ ul {
 .main-desc {
     max-width: 600px;
     margin: 20px 30px;
+}
+
+.personal-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
 }
