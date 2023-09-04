@@ -184,6 +184,10 @@ ul {
     margin-bottom: 20px;
 }
 
+.work-container {
+    margin-bottom: 80px;
+}
+
 .year-container {
     margin-bottom: 10px;
 }
@@ -209,6 +213,10 @@ ul {
     /* font-weight: lighter; */
 }
 
+.work-texts {
+    margin: 15px 0;
+}
+
 .main-desc, .work-exp {
     max-width: 600px;
     margin: 20px 30px;
@@ -224,6 +232,7 @@ ul {
 .highlight {
     background-color: rgb(255, 196, 54);
     padding: 0 5px;
+
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 5px;
@@ -235,4 +244,38 @@ ul {
     color: white;
     cursor: pointer;
     transition: all .3s ease-in-out;
+}
+
+.skill-sets {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 5px;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.sign {
+    width: 300px;
+    align-self: flex-end;
+}
+
+.footer-sign {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sign-text {
+    align-self: flex-end;
+    margin-top: -25px;
 }
