@@ -346,3 +346,20 @@ ul {
     /* max-width: 50px; */
     margin: 0 auto;
 }
+
+.skill-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 5px;
+}
+
+.single-skill {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.skill-arrow {
+    color: red;
+}
