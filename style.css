@@ -399,11 +399,9 @@ ul {
     height: 50px;
     width: 100%;
     border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    /* border-bottom-left-radius: 20px; */
     background-color: rgb(255, 196, 54);
-    top: -30px;
-    left: 0;
-    right: 0;
+    top: -30px;  
     display: flex;
     justify-content: center;
     align-items: center;
