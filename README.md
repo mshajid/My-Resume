@@ -77,7 +77,7 @@ There are no configuration required to use this project effectively, but for new
 |---|---|
 | Prettier  |  [Check here](https://prettier.io/) |
 | Dracula Theme  |  [Check here](https://draculatheme.com/visual-studio-code) |
-| 
+
 
 ## Contributing
 
