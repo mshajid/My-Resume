@@ -19,6 +19,9 @@ This is the #1 Project of mine which is a "Resume" with HTML & CSS ( *without an
     - [How to Contribute](#how-to-contribute)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
+    - [Special Supports](#special-supports)
+    - [Connect With Me](#connect-with-me)
+    - [Recent Badges](#recent-badges)
 
 ## Description
 
@@ -89,11 +92,10 @@ If you were able to spot a problem with the project, Search if an [issue already
 
 - Fork the Repository [here](https://github.com/mshajid/My-Resume).
 - Once you Successfully forked to your local machine, then make sure to open up with your editor.
-- Before you browse the code, Always check with Issues / Pull Request tab and be concious with open requests until now, and do not duplicate it.
+- Before you browse the code, Always check with Issues / Pull Request tab and be concious with already open requests until now, and do not duplicate it.
 - Browse the code, and find bug or feature. 
 - If you find a bug or feature, don't hesitate to create a branch and initiate a PR with your changes.
-- 
-
+  
 
 ## License
 
@@ -101,9 +103,32 @@ MIT
 
 ## Acknowledgments
 
-[If your project uses third-party code, libraries, or resources, acknowledge and give credit to the authors or projects that have been helpful.]
+Thanks you very much, and These are the resources I used on this project specifically, and will list them down here on table for your reference.  
+
+**For Contributors**: *Don't forget to add your extra resources if the PR were merged with the project.*
+
+| Sources | Links | Description |
+|-------|-------|-------|
+| **Stackedit** |  [Link](https://stackedit.io/) | To edit all my Markdown.
+| **Color Hunt**  |  [Link](https://colorhunt.co/) | For color pallets.
+| **Flat Icon**  |  [Link](https://www.flaticon.com/) | For awesome icons.
+| **W3 Schools**  |  [Link](https://w3schools.com/) | For additional reference.
+
+### Special Supports
+
+[Anbu Selvan Rocky](https://www.instagram.com/anbuselvanrocky/) is one of our mentor in the CyberDude's internship program, and helped me with direction that I wanted to go. the knowledge passed down from Anbu is massive. Thanks for your dedication.
 
 ---
+### Connect With Me 
+- **Instagram** - [Link](https://instagram.com/shajid.shafee/)
+- **Facebook** - [Link](https://facebook.com/muhammed.shajid.10)
+- **Github** - [Link](https://github.com/mshajid)
+- **LinkedIn** - [Link](https://linkedin.com/in/shajidshafee)
+- **Twitter** - [Link](https://twitter.com/ShafeeShajid)
+- **Dev.to** - [Link](https://dev.to/mshajid)
 
-[Optional: Include badges, social media links, or additional information about your project or yourself.]
+### Recent Badges
+
+![Obtained from Dev.to for my 3rd Year](https://res.cloudinary.com/practicaldev/image/fetch/s--lTvS9BmJ--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/10/3yearclub-final__1_.png)
+<br> This Badge obtained from "**Dev.to**" for being active for three years. 
 
