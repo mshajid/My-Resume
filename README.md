@@ -25,8 +25,6 @@ This is the #1 Project of mine which is a "Resume" with HTML & CSS ( *without an
 
 ## Description
 
-[Provide a more detailed description of your project. Explain what it does, its purpose, and any unique features.]
-
 This Resume built with HTML & CSS only without adding any frameworks. Design is inspired by my own Resume which is generated via Canva.
 
 The Purpose of this Resume is simple and straightfoward that I'm demonstrating you all that my knowledge and expertise on the field but this Resume is totally different than an ordinary resume.
@@ -35,9 +33,7 @@ Unique features has been added to this resume that are clickable links redirects
 
 ## Demo
 
-[Include links to a live demo, screenshots, or GIFs that showcase your project in action.]
-
-Project Live URL: https://mshajid.github.io/My-Resume/
+🌟🌟 Project Live URL: https://mshajid.github.io/My-Resume/
 
 ## Internship
 
@@ -45,21 +41,23 @@ This internship is provided by [CyberDude Networks Pvt. Ltd.](https://youtube.co
 
 ## Technologies Used
 
-For Frontend - HTML 5, CSS 3
+**For Frontend** - HTML 5, CSS 3
 
 ## Features
 
-- [List the key features and functionality of your project.]
+- Currently site is with Static HTML & CSS, and there were no distinguish feature added yet except link redirects to the appropriate site, and hover state changes with a transition effect for a better User experience. 
+
+**Note**: *I'll keep updating the features here if we've added any to this project.*
 
 ## Installation
 
-[Provide step-by-step instructions on how to install and set up your project locally. Include any prerequisites and dependencies.]
+Installation is pretty simple that don't require large dependencies since this project is built on top with HTML, CSS without any frameworks and pre-processors. Please check below prerequisites and setting up the project locally. 
 
 ### Prerequisites
 
 Since I used modernized syntaxes for both HTML & CSS, I wish you all have a updated browser. However, Majority of the browsers are already supporting the code I use on this project. 
 
-FYI: (Browser Name divided with the version numbrs below for your convenience)
+**FYI**: (*Browser Name divided with the version numbrs below for your convenience*)
 -   Google Chrome 117-119
 -   Microsoft Edge - 116
 -   Safari - 16.6 - TP
@@ -107,7 +105,7 @@ Thanks you very much, and These are the resources I used on this project specifi
 
 **For Contributors**: *Don't forget to add your extra resources if the PR were merged with the project.*
 
-| Sources | Links | Description |
+| 🌟 Sources | 🧢 Links | 📗 Description |
 |-------|-------|-------|
 | **Stackedit** |  [Link](https://stackedit.io/) | To edit all my Markdown.
 | **Color Hunt**  |  [Link](https://colorhunt.co/) | For color pallets.
@@ -116,7 +114,7 @@ Thanks you very much, and These are the resources I used on this project specifi
 
 ### Special Supports
 
-[Anbu Selvan Rocky](https://www.instagram.com/anbuselvanrocky/) is one of our mentor in the CyberDude's internship program, and helped me with direction that I wanted to go. the knowledge passed down from Anbu is massive. Thanks for your dedication.
+💪🏼 [Anbu Selvan Rocky](https://www.instagram.com/anbuselvanrocky/) is one of our mentor in the CyberDude's internship program, and helped me with direction that I wanted to go. the knowledge passed down from Anbu is massive. Thanks for your dedication.
 
 ---
 ### Connect With Me 
