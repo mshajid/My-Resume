@@ -58,11 +58,11 @@ Installation is pretty simple that don't require large dependencies since this p
 Since I used modernized syntaxes for both HTML & CSS, I wish you all have a updated browser. However, Majority of the browsers are already supporting the code I use on this project. 
 
 **FYI**: (*Browser Name divided with the version numbrs below for your convenience*)
--   Google Chrome 117-119
--   Microsoft Edge - 116
--   Safari - 16.6 - TP
--   Firefox 118 - 120
--   Opera - 102
+-   **Google Chrome** 117-119
+-   **Microsoft Edge** - 116
+-   **Safari** - 16.6 - TP
+-   **Firefox** 118 - 120
+-   **Opera** - 102
 
 ### How to Setup the Project Locally?
 
